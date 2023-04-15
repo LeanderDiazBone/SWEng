@@ -53,7 +53,7 @@ Our code can be found on [GitHub]((https://github.com/oagenoagemono/CSE403-SP23-
 
   - [Leander Diaz-Bone]
   - [Yanick Schimpf](https://www.linkedin.com/in/yanick-schimpf-a7924a251/)
-  - [Member name 3](https://myhomepage.me)
+  - [Srivatshan(Sri) Sakthinarayanan]
   - [Member name 4](https://myhomepage.me)
   - [Member name 5](https://myhomepage.me)
 
